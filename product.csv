@@ -43,35 +43,35 @@ id,type,name
 42,Fruta-Hortaliza,Sandia Sin Especificar
 43,Fruta-Hortaliza,Durazno Conservero
 44,Fruta-Hortaliza,Nectarín Plátano
-45,Fruta-Hortaliza,Papa Kar˙
+45,Fruta-Hortaliza,Papa Karú
 46,Fruta-Hortaliza,Pera Bartlett verano
 47,Fruta-Hortaliza,Uva Red Globe
 48,Fruta-Hortaliza,Uva Sultanina
 49,Fruta-Hortaliza,Tomate Semiduro
 50,Fruta-Hortaliza,Naranja Valenciana
-51,Carne de Bovino CategorÌa V,Abastero
-52,Carne de Bovino CategorÌa V,Asado Carnicero
-53,Carne de Bovino CategorÌa V,Asiento
+51,Carne de Bovino Categoría V,Abastero
+52,Carne de Bovino Categoría V,Asado Carnicero
+53,Carne de Bovino Categoría V,Asiento
 54,"Carne de Pollo, Cerdo y Pavo",Cerdo Costillar
 55,"Carne de Pollo, Cerdo y Pavo",Cerdo Lomo
 56,"Carne de Pollo, Cerdo y Pavo",Cerdo Pulpa s/hueso
 57,"Carne de Pollo, Cerdo y Pavo",Chuleta (Parrillera)
 58,"Carne de Pollo, Cerdo y Pavo",Chuleta (centro)
-59,Carne de Bovino CategorÌa V,Filete
-60,Carne de Bovino CategorÌa V,Huachalomo
-61,Carne de Bovino CategorÌa V,Lomo Liso
-62,Carne de Bovino CategorÌa V,Lomo Vetado
+59,Carne de Bovino Categoría V,Filete
+60,Carne de Bovino Categoría V,Huachalomo
+61,Carne de Bovino Categoría V,Lomo Liso
+62,Carne de Bovino Categoría V,Lomo Vetado
 63,"Carne de Pollo, Cerdo y Pavo",Pavo Pechuga†s/hueso
 64,"Carne de Pollo, Cerdo y Pavo",Pavo Trutro Corto
 65,"Carne de Pollo, Cerdo y Pavo",Pollo Entero
-66,Carne de Bovino CategorÌa V,Pollo Ganso
+66,Carne de Bovino Categoría V,Pollo Ganso
 67,"Carne de Pollo, Cerdo y Pavo",Pollo Pechuga
 68,"Carne de Pollo, Cerdo y Pavo",Pollo Trutro Entero
-69,Carne de Bovino CategorÌa V,Posta Negra
-70,Carne de Bovino CategorÌa V,Posta Paleta
-71,Carne de Bovino CategorÌa V,Posta Rosada
-72,Carne de Bovino CategorÌa V,Sobrecostilla
-73,Carne de Bovino CategorÌa V,Tapapecho
+69,Carne de Bovino Categoría V,Posta Negra
+70,Carne de Bovino Categoría V,Posta Paleta
+71,Carne de Bovino Categoría V,Posta Rosada
+72,Carne de Bovino Categoría V,Sobrecostilla
+73,Carne de Bovino Categoría V,Tapapecho
 74,Pan,Hallulla corriente
 75,Pan,Hallulla especial
 76,Pan,Marraqueta
@@ -79,7 +79,7 @@ id,type,name
 78,Arroz,Arroz grano Ancho grado 1
 79,Arroz,Arroz grano Ancho grado 2
 80,Arroz,Arroz grano Delgado grado 2
-81,Az˙car,Az˙car
+81,Azúcar,Azúcar
 82,Legumbres,Garbanzos sin piel
 83,Harina,Harina con polvos de hornear
 84,Harina,Harina sin polvos de hornear
