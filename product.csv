@@ -1,0 +1,102 @@
+id,type,name
+1,Fruta-Hortaliza,Ajo Chino
+2,Fruta-Hortaliza,Apio Americano
+3,Fruta-Hortaliza,Brócoli Sin Especificar
+4,Fruta-Hortaliza,Cebolla Sin Especificar
+5,Fruta-Hortaliza,Choclo Americano
+6,Fruta-Hortaliza,Coliflor Sin Especificar
+7,Fruta-Hortaliza,Espinaca Sin Especificar
+8,Fruta-Hortaliza,Kiwi Hayward
+9,Fruta-Hortaliza,Lechuga Conconina
+10,Fruta-Hortaliza,Lechuga Escarola
+11,Fruta-Hortaliza,Limón Sin Especificar
+12,Fruta-Hortaliza,Mandarina clemenuless
+13,Fruta-Hortaliza,Manzana Fuji
+14,Fruta-Hortaliza,Manzana Granny Smith
+15,Fruta-Hortaliza,Manzana Royal Fuji
+16,Fruta-Hortaliza,Naranja Fukumoto
+17,Fruta-Hortaliza,Naranja Thompson
+18,Fruta-Hortaliza,Palta Hass
+19,Fruta-Hortaliza,Palta Negra de La Cruz
+20,Fruta-Hortaliza,Papa Asterix
+21,Fruta-Hortaliza,Pepino ensalada Sin Especificar
+22,Fruta-Hortaliza,Pera Packam's Triumph
+23,Fruta-Hortaliza,Pimiento Cuatro cascos verde
+24,Fruta-Hortaliza,Plátano Sin Especificar
+25,Fruta-Hortaliza,Poroto verde Magnum
+26,Fruta-Hortaliza,Repollo Crespo record
+27,Fruta-Hortaliza,Tomate Larga Vida
+28,Fruta-Hortaliza,Zanahoria Sin Especificar
+29,Fruta-Hortaliza,Zapallo Camote
+30,Fruta-Hortaliza,Zapallo italiano Sin Especificar
+31,Fruta-Hortaliza,Mandarina Clementina
+32,Fruta-Hortaliza,Papa Desire
+33,Fruta-Hortaliza,Manzana Royal Gala
+34,Fruta-Hortaliza,Naranja Navel Late
+35,Fruta-Hortaliza,Durazno Florida King
+36,Fruta-Hortaliza,Naranja Valencia
+37,Fruta-Hortaliza,Nectarín Early John
+38,Fruta-Hortaliza,Choclo Choclero
+39,Fruta-Hortaliza,Melón Calameño
+40,Fruta-Hortaliza,Melón Tuna
+41,Fruta-Hortaliza,Poroto granado Sin Especificar
+42,Fruta-Hortaliza,Sandia Sin Especificar
+43,Fruta-Hortaliza,Durazno Conservero
+44,Fruta-Hortaliza,Nectarín Plátano
+45,Fruta-Hortaliza,Papa Kar˙
+46,Fruta-Hortaliza,Pera Bartlett verano
+47,Fruta-Hortaliza,Uva Red Globe
+48,Fruta-Hortaliza,Uva Sultanina
+49,Fruta-Hortaliza,Tomate Semiduro
+50,Fruta-Hortaliza,Naranja Valenciana
+51,Carne de Bovino CategorÌa V,Abastero
+52,Carne de Bovino CategorÌa V,Asado Carnicero
+53,Carne de Bovino CategorÌa V,Asiento
+54,"Carne de Pollo, Cerdo y Pavo",Cerdo Costillar
+55,"Carne de Pollo, Cerdo y Pavo",Cerdo Lomo
+56,"Carne de Pollo, Cerdo y Pavo",Cerdo Pulpa s/hueso
+57,"Carne de Pollo, Cerdo y Pavo",Chuleta (Parrillera)
+58,"Carne de Pollo, Cerdo y Pavo",Chuleta (centro)
+59,Carne de Bovino CategorÌa V,Filete
+60,Carne de Bovino CategorÌa V,Huachalomo
+61,Carne de Bovino CategorÌa V,Lomo Liso
+62,Carne de Bovino CategorÌa V,Lomo Vetado
+63,"Carne de Pollo, Cerdo y Pavo",Pavo Pechuga†s/hueso
+64,"Carne de Pollo, Cerdo y Pavo",Pavo Trutro Corto
+65,"Carne de Pollo, Cerdo y Pavo",Pollo Entero
+66,Carne de Bovino CategorÌa V,Pollo Ganso
+67,"Carne de Pollo, Cerdo y Pavo",Pollo Pechuga
+68,"Carne de Pollo, Cerdo y Pavo",Pollo Trutro Entero
+69,Carne de Bovino CategorÌa V,Posta Negra
+70,Carne de Bovino CategorÌa V,Posta Paleta
+71,Carne de Bovino CategorÌa V,Posta Rosada
+72,Carne de Bovino CategorÌa V,Sobrecostilla
+73,Carne de Bovino CategorÌa V,Tapapecho
+74,Pan,Hallulla corriente
+75,Pan,Hallulla especial
+76,Pan,Marraqueta
+77,Pan,Hallulla integral
+78,Arroz,Arroz grano Ancho grado 1
+79,Arroz,Arroz grano Ancho grado 2
+80,Arroz,Arroz grano Delgado grado 2
+81,Az˙car,Az˙car
+82,Legumbres,Garbanzos sin piel
+83,Harina,Harina con polvos de hornear
+84,Harina,Harina sin polvos de hornear
+85,Huevos,Huevos
+86,Leche,Leche Fluida Descremada
+87,Leche,Leche Fluida Entera
+88,Leche,Leche en Polvo Descremada
+89,Leche,Leche en Polvo Entera
+90,Legumbres,Lentejas 6 mm
+91,Mantequilla,Mantequilla
+92,Aceite,Maravilla
+93,Margarina,Margarina
+94,Legumbres,Poroto Hallado
+95,Legumbres,Poroto Tórtola
+96,Queso,Queso Chanco
+97,Queso,Queso Gauda
+98,Queso,Queso Mantecoso
+99,Fideos,Spaghetti N∞ 5
+100,Aceite,Vegetal
+101,Yoghurt,Yoghurt (vainilla ó frutilla)
