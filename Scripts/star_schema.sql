@@ -7,7 +7,6 @@ CREATE TABLE Time (
   month  int(10) NOT NULL,
   year   int(10) NOT NULL,
   `date` date NOT NULL,
-  week   int(10) NOT NULL,
   id     int(10) NOT NULL AUTO_INCREMENT,
   PRIMARY KEY (id));
 CREATE TABLE City (
