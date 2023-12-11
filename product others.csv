@@ -1,0 +1,52 @@
+id,type,name
+1,Carne de Bovino Categoría V,Abastero
+2,Carne de Bovino Categoría V,Asado Carnicero
+3,Carne de Bovino Categoría V,Asiento
+4,"Carne de Pollo, Cerdo y Pavo",Cerdo Costillar
+5,"Carne de Pollo, Cerdo y Pavo",Cerdo Lomo
+6,"Carne de Pollo, Cerdo y Pavo",Cerdo Pulpa s/hueso
+7,"Carne de Pollo, Cerdo y Pavo",Chuleta (Parrillera)
+8,"Carne de Pollo, Cerdo y Pavo",Chuleta (centro)
+9,Carne de Bovino Categoría V,Filete
+10,Carne de Bovino Categoría V,Huachalomo
+11,Carne de Bovino Categoría V,Lomo Liso
+12,Carne de Bovino Categoría V,Lomo Vetado
+13,"Carne de Pollo, Cerdo y Pavo",Pavo Pechuga†s/hueso
+14,"Carne de Pollo, Cerdo y Pavo",Pavo Trutro Corto
+15,"Carne de Pollo, Cerdo y Pavo",Pollo Entero
+16,Carne de Bovino Categoría V,Pollo Ganso
+17,"Carne de Pollo, Cerdo y Pavo",Pollo Pechuga
+18,"Carne de Pollo, Cerdo y Pavo",Pollo Trutro Entero
+19,Carne de Bovino Categoría V,Posta Negra
+20,Carne de Bovino Categoría V,Posta Paleta
+21,Carne de Bovino Categoría V,Posta Rosada
+22,Carne de Bovino Categoría V,Sobrecostilla
+23,Carne de Bovino Categoría V,Tapapecho
+24,Pan,Hallulla corriente
+25,Pan,Hallulla especial
+26,Pan,Marraqueta
+27,Pan,Hallulla integral
+28,Arroz,Arroz grano Ancho grado 1
+29,Arroz,Arroz grano Ancho grado 2
+30,Arroz,Arroz grano Delgado grado 2
+31,Azúcar,Azúcar
+32,Legumbres,Garbanzos sin piel
+33,Harina,Harina con polvos de hornear
+34,Harina,Harina sin polvos de hornear
+35,Huevos,Huevos
+36,Leche,Leche Fluida Descremada
+37,Leche,Leche Fluida Entera
+38,Leche,Leche en Polvo Descremada
+39,Leche,Leche en Polvo Entera
+40,Legumbres,Lentejas 6 mm
+41,Mantequilla,Mantequilla
+42,Aceite,Maravilla
+43,Margarina,Margarina
+44,Legumbres,Poroto Hallado
+45,Legumbres,Poroto Tórtola
+46,Queso,Queso Chanco
+47,Queso,Queso Gauda
+48,Queso,Queso Mantecoso
+49,Fideos,Spaghetti N∞ 5
+50,Aceite,Vegetal
+51,Yoghurt,Yoghurt (vainilla ó frutilla)
